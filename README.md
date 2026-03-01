@@ -331,7 +331,7 @@ Ludwig-Erhard-Straße 18
 20459 Hamburg
 
 Kontaktdaten:
-E-Mail: info@zucker-it.de
+E-Mail: github[at]zucker-it.de
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:
 DE309146063
