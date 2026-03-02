@@ -1,6 +1,6 @@
 ## Impressum
 
-**Inhalte gemäß §5 DDG**  
+**Inhalte gemäß §5 TMG**  
 
 Carsten Zucker  
 c/o IP-Management #9060  
