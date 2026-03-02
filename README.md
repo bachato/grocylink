@@ -329,7 +329,3 @@ Alle Daten werden in `/app/data` im Container gespeichert:
 ## Rechtliches
 
 - [Impressum](https://github.com/c42u/grocylink/blob/main/Impressum.md)
-
-
-
-- 
